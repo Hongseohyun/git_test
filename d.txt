@@ -1,1 +1,3 @@
-ddd
+import sys
+import time
+time.time()
